@@ -1,6 +1,6 @@
 # Hello, world!
 
-- Senior Program Manager at Microsoft for Azure Files and File Sync.
+- Principal Program Manager at Microsoft for Azure Files and File Sync.
 - Focusing on cost optimization, file share management, networking, SMB, documentation, and technical talks.
 - Interested in PowerShell, C#, TypeScript, and Rust.
 
