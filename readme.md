@@ -7,6 +7,16 @@
 ## Talks
 <table>
     <tr>
+        <td><a href="https://www.youtube.com/watch?v=9ljANVZPNZk"><img src="./media/storage-talk-pv2.png" style="width:200px" /></a></td>
+        <td>
+            <h3><a href="https://www.youtube.com/watch?v=9ljANVZPNZk">Provisioned v2 Billing Model for Azure Files</a></h3>
+            <h4>
+                Nataraj Sindam, Will Gries<br />
+                2025-11-25
+            </h4>
+        </td>
+    </tr>
+    <tr>
         <td><a href="https://www.youtube.com/watch?v=9hnyIN0NnI4"><img src="./media/ignite2025.png" style="width:200px" /></a></td>
         <td>
             <h3><a href="https://www.youtube.com/watch?v=9hnyIN0NnI4">Simplifying Azure Files: Provisioned v2 and Microsoft.FileShares</a></h3>
